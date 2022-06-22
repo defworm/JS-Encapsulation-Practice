@@ -2,12 +2,23 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
-      "bread": "Sourdough",
+      "name": "Crystal",
+      "bread": "Wheat",
       "ingredients": [
         "Cheddar Cheese",
         "Mayo",
-        "Ham",
+        "Bacon",
+        "Lettuce",
+        "Tomatoes"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Crystal",
+      "bread": "Wheat",
+      "ingredients": [
+        "Cheddar Cheese",
+        "Mayo",
         "Bacon",
         "Lettuce",
         "Tomatoes"
